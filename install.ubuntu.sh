@@ -21,6 +21,9 @@ rm -rf ~/.vim/bundle/snipmate.vim/snippets
 sudo apt-get install build-essential
 
 sudo apt-get install python-numpy python-scilab python-matplotlib
+# Computer vision lib
+# sudo apt-get install python-opencv
+# Python package index
 sudo apt-get install python-pip
 sudo pip install pyyaml
 
