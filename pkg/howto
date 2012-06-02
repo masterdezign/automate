@@ -1,0 +1,3 @@
+sudo dpkg --get-selections|grep -vi kernel > installed.conf
+sudo dpkg --set-selections < installed.conf
+sudo dselect
