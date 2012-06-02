@@ -1,4 +1,4 @@
 About
 =====
 
-A few automation scripts to make everyday life easier :)
+A few scripts to customize Linux installation.
