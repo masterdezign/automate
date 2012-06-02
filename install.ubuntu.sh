@@ -3,6 +3,8 @@
 # Installs some dev stuff on Ubuntu/Debian machine
 
 sudo apt-get install git
+# git config --global user.name "Your Name"
+# git config --global user.email you@example.com
 sudo apt-get install mercurial
 
 sudo apt-get install zsh
