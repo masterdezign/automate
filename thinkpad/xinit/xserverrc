@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec /usr/bin/X -dpi 85 -nolisten tcp "$@"
