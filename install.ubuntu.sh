@@ -38,6 +38,8 @@ sudo apt-get install p7zip-full
 # sudo apt-get install nodejs
 # sudo apt-get install curl
 # curl -L get.rvm.io | zsh -s stable --rails
+
+# rvm pkg install readline
 # rvm pkg install openssl
 # rvm install 1.9.3 --with-openssl-dir=$HOME/.rvm/usr
 
