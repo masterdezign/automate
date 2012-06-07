@@ -10,6 +10,7 @@ sudo apt-get install mercurial
 sudo apt-get install zsh
 wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 
+sudo apt-get install exuberant-ctags
 git clone https://github.com/masterdezign/vim-netbeans.git
 
 ln -s ~/vim-netbeans/.vimrc ~/.vimrc
