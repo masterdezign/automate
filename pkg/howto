@@ -1,3 +1,7 @@
 sudo dpkg --get-selections|grep -vi kernel > installed.conf
+
+In the file in this directory we have a list of packages installed on Debian 6 Squeeze.
+Here is how to install them at once:
+
 sudo dpkg --set-selections < installed.conf
 sudo dselect
