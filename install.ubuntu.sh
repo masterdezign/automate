@@ -48,5 +48,8 @@ sudo apt-get install p7zip-full
 # wget -qO- https://toolbelt.heroku.com/install.sh | sh
 
 ## LaTeX
-# sudo apt-get install texlive-full
+# sudo apt-get install texlive-latex-base texlive-latex-recommended
 # sudo apt-get install xelatex
+
+# sudo apt-get install texlive-fonts-extra texlive-fonts-recommended texlive-math-extra
+## sudo apt-get install texlive-full
