@@ -47,3 +47,6 @@ sudo apt-get install p7zip-full
 ## Heroku
 # wget -qO- https://toolbelt.heroku.com/install.sh | sh
 
+## LaTeX
+# sudo apt-get install texlive-full
+# sudo apt-get install xelatex
